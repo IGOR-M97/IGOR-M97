@@ -7,13 +7,13 @@
 - 👯 I'm looking for a permanent job!
 
 ### Connect with me:
-[<img align="left" alt="opa_oz | Twitter" width="22px" src="https://icons8.com/icon/k4jADXhS5U1t/telegram" />][Telegram]
-[<img align="left" alt="opa_oz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
+[<img align="left" alt="IGOR-M97 | Twitter" width="22px" src="https://img.icons8.com/3d-fluency/94/telegram.png" />][Telegram]
+[<img align="left" alt="IGOR-M97 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
 
 <br />
 
 **Python:**  
-Python, Pandas, Numpy, Matplotlib, SciP
+Pandas, Matplotlib, Seaborn, Plotly, SciPy, Numpy
 
 **Databases:** 
 PostgreSQL, MySQL
