@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi there, I'm Igor Markin 👋
 
-<!--
-**IGOR-M97/IGOR-M97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Data Analyst!
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working as a freelancer.
+- 🤔 I completed the Yandex courses.
+- 👯 I'm looking for a permanent job!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+[<img align="left" alt="opa_oz | Twitter" width="22px" src="https://icons8.com/icon/k4jADXhS5U1t/telegram" />][Telegram]
+[<img align="left" alt="opa_oz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
+
+<br />
+
+**Python:**  
+Python, Pandas, Numpy, Matplotlib, SciP
+
+**Databases:** 
+PostgreSQL, MySQL
+
+**BI Tools:**  
+Tableau
+
+[Telegram]: https://t.me/igorkgd
+[Linkedin]: https://www.linkedin.com/in/igor-markin-71a335265/
