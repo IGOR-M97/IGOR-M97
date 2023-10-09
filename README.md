@@ -11,15 +11,13 @@
 [<img align="left" alt="IGOR-M97 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
 
 <br />
+<br />
 
-**Python:**  
-Pandas, Matplotlib, Seaborn, Plotly, SciPy, Numpy
+**Python:** Pandas, Matplotlib, Seaborn, Plotly, SciPy, Numpy
 
-**Databases:** 
-PostgreSQL, MySQL
+**Databases:** PostgreSQL, MySQL
 
-**BI Tools:**  
-Tableau
+**BI Tools:** Tableau
 
 [Telegram]: https://t.me/igorkgd
 [Linkedin]: https://www.linkedin.com/in/igor-markin-71a335265/
