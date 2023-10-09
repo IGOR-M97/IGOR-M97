@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working as a freelancer.
 - 🤔 I completed the Yandex courses.
-- 👯 I'm looking for a permanent job!
+- 👯 I'm looking for a permanent job! [My Portfolio here!](https://github.com/IGOR-M97/Portfolio)
 
 ### Connect with me:
 [<img align="left" alt="IGOR-M97 | Twitter" width="22px" src="https://img.icons8.com/3d-fluency/94/telegram.png" />][Telegram]
@@ -15,7 +15,7 @@
 
 **Python:** Pandas, Matplotlib, Seaborn, Plotly, SciPy, Numpy
 
-**Databases:** PostgreSQL, MySQL
+**Databases:** PostgreSQL, MySQL, Excel
 
 **BI Tools:** Tableau
 
