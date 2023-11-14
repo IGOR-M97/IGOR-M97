@@ -17,7 +17,7 @@
 
 **Databases:** PostgreSQL, MySQL, Excel
 
-**BI Tools:** Tableau
+**BI Tools:** Tableau, DataLens
 
 [Telegram]: https://t.me/igorkgd
 [Linkedin]: https://www.linkedin.com/in/igor-markin-71a335265/
